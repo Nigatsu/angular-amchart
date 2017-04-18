@@ -1,0 +1,18 @@
+{
+  "title": "AngularJs com AmCharts",
+  "name": "angular-amchart",
+  "version": "1.4.2",
+  "description": "Angular directive to control an AmChart instance",
+  "homepage": "https://github.com/connecta-solutions/angular-amchart",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connecta-solutions/angular-amchart.git"
+  },
+  "main": "angular-amchart-directive.js",
+  "license": "MIT",
+  "authors": [
+    "Cleto Gadelha <cletogadelha@gmail.com>",
+    "Nataniel Paiva <nataniel.paiva@gmail.com>",
+    "Vinicius Pires <vinicius.costa.pires@gmail.com>"
+  ]
+}
